@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Muskansaaini
-- 👀 I’m interested in networkinh
+- 👀 I’m interested in networking
 - 🌱 I’m currently learning react native
 
 - 📫 How to reach me email @muskan.saaini@gmail.com
